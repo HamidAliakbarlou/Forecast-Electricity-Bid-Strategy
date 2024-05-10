@@ -1,1 +1,0 @@
-"# Forecast-Electricity-Bid-Strategy" 
