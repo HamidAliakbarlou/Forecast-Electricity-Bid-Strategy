@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-We aimed to improve the precision of bidding strategy forecasting in Alberta's electricity market by employing time series models. Leveraging generator-level hourly bid data from 2008 to 2022, focusing on bids from one firm (TransAlta), we assessed bid functions, fluctuations, and market volatility. Time series models (AR, ARIMA, SARIMA) with an exogenous variable were utilized to forecast bidding strategies.
+The goal of this project was to improve the precision of bidding strategy forecasting in Alberta's electricity market by employing time series models. Leveraging generator-level hourly bid data from 2008 to 2022, focusing on bids from one firm (TransAlta), we assessed bid functions, fluctuations, and market volatility. To do this, Time series models with an exogenous variable (ARX, ARIMAX, SARIMAX) were utilized to forecast bidding strategies.
 
 ## Main Goals
 
