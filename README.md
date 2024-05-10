@@ -1,4 +1,5 @@
 #Enhancing Electricity Market Forecasting: Leveraging Time Series Models and Exogenous Variables
+
 ##Project Overview:
 We aimed to improve the precision of bidding strategy forecasting in Alberta's electricity market by employing time series models. Leveraging generator-level hourly bid data from 2008 to 2022, focusing on bids from one firm (TransAlta), we assessed bid functions, fluctuations, and market volatility.
 The project involved three primary objectives: enhancing forecasting accuracy, evaluating exogenous variables' impact, and accounting for market structural changes.
