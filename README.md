@@ -23,4 +23,3 @@ The project involved three primary objectives: enhancing forecasting accuracy, e
 ## Conclusion
 
 Our tailored approach showcased superior forecasting capabilities, addressing short and medium-term horizons. The strategic selection of representative years and careful consideration of exogenous variables contributed to robust and applicable forecasting methodologies, providing clear insights into electricity market dynamics in Alberta.
-Modeling Approach and Aim:
